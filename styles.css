@@ -1,0 +1,29 @@
+h1{font-family: 'Spicy Rice', cursive;}
+
+h2{font-family: 'Shadows Into Light', cursive;
+font-size:40px;
+}
+
+p{font-family: 'Ranga', cursive;
+font-size:40px;}
+
+.title{font-size:60px;}
+
+body{text-align:center;
+background-color:#A9C3EF;}
+
+img{border:dotted 4px ;}
+
+.award1{color:purple;
+border:solid 4px #d98cb3;
+}
+
+.award2{color:darkblue;
+border:dotted 6px lightgreen;
+}
+.award3{color:#003399
+;
+border:solid 4px #e6b3ff;}
+
+.award4{color:aquamarine;
+border:dotted 6px #ffdd99;}
